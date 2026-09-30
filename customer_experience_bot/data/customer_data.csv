@@ -1,0 +1,16 @@
+customer_id,name,mobile,email,customer_type,dealer_name,distributor_name,product,model,serial_number,location,state,sales_head,created_date
+CUST-1001,Rajesh Sharma,+91 98201 12345,rajesh.sharma@example.com,Customer,Apex Electro Services,Zenith Power Distro,Solar Hybrid Inverter,Apex-Solar-5KVA,SN-SOLAR-88219,Mumbai,Maharashtra,Amitabh Sen,2026-08-15
+CUST-1002,Sunita Patel,+91 98765 43210,sunita.patel@example.com,Customer,Surat Energy Hub,Gujarat Power Grid,Commercial Heat Pump,Apex-HP-10KW,SN-HEAT-44102,Surat,Gujarat,Bhavin Mehta,2026-08-18
+CUST-1003,Vikas Verma,+91 94120 55432,vikas.verma@example.com,Customer,Northern Power Store,Delhi Distributors Ltd,EV Fast Charger,Apex-EV-Fast-60,SN-EVFC-99120,New Delhi,Delhi,Amitabh Sen,2026-08-20
+CUST-1004,Pooja Hegde,+91 97411 88990,pooja.hegde@example.com,Customer,Bangalore Solar Mart,Karnataka Power Logistics,Solar Hybrid Inverter,Apex-Solar-10KVA,SN-SOLAR-77312,Bengaluru,Karnataka,Karthik Rao,2026-08-22
+CUST-1005,Anand Kulkarni,+91 98220 33441,anand.kulkarni@example.com,Customer,Pune Battery & Solar,Western Grid Supply,Industrial Water Pump,Apex-Pump-7HP,SN-PUMP-11234,Pune,Maharashtra,Amitabh Sen,2026-08-25
+DEAL-2001,Metro Solar Enterprises,+91 98101 99220,metro.solar@dealers.apex.com,Dealer,Self,Delhi Distributors Ltd,Solar Hybrid Inverter,Apex-Solar-5KVA,DEAL-INV-001,New Delhi,Delhi,Amitabh Sen,2026-07-10
+DEAL-2002,Deccan Green Tech,+91 94401 22334,deccan.tech@dealers.apex.com,Dealer,Self,Southern Apex Hub,Commercial Heat Pump,Apex-HP-15KW,DEAL-INV-002,Hyderabad,Telangana,Karthik Rao,2026-07-12
+DEAL-2003,Gujarat Energy Traders,+91 98250 88771,gujarat.energy@dealers.apex.com,Dealer,Self,Gujarat Power Grid,EV Fast Charger,Apex-EV-Dual-120,DEAL-INV-003,Ahmedabad,Gujarat,Bhavin Mehta,2026-07-15
+DIST-3001,Zenith Power Distro,+91 98200 11000,zenith.distro@distro.apex.com,Distributor,None,Self,All Apex Lineups,Full Range,DIST-HQ-01,Mumbai,Maharashtra,Amitabh Sen,2026-06-01
+DIST-3002,Southern Apex Hub,+91 98400 22000,south.hub@distro.apex.com,Distributor,None,Self,All Apex Lineups,Full Range,DIST-HQ-02,Chennai,Tamil Nadu,Karthik Rao,2026-06-01
+CUST-1006,Meera Nair,+91 98470 66123,meera.nair@example.com,Customer,Kochi Green Solutions,Southern Apex Hub,Solar Hybrid Inverter,Apex-Solar-3KVA,SN-SOLAR-33901,Kochi,Kerala,Karthik Rao,2026-08-28
+CUST-1007,Rohan Deshmukh,+91 99203 44556,rohan.deshmukh@example.com,Customer,Apex Electro Services,Zenith Power Distro,Solar Hybrid Inverter,Apex-Solar-5KVA,SN-SOLAR-88240,Thane,Maharashtra,Amitabh Sen,2026-09-01
+CUST-1008,Suresh Reddy,+91 98480 77112,suresh.reddy@example.com,Customer,Deccan Green Tech,Southern Apex Hub,Industrial Water Pump,Apex-Pump-10HP,SN-PUMP-99432,Secunderabad,Telangana,Karthik Rao,2026-09-03
+CUST-1009,Harpreet Singh,+91 98140 12890,harpreet.singh@example.com,Customer,Chandigarh Energy Point,Punjab Power Corp,Solar Hybrid Inverter,Apex-Solar-10KVA,SN-SOLAR-66102,Ludhiana,Punjab,Amitabh Sen,2026-09-05
+CUST-1010,Kavita Iyer,+91 98410 99881,kavita.iyer@example.com,Customer,Chennai Eco Power,Southern Apex Hub,EV Fast Charger,Apex-EV-Fast-30,SN-EVFC-55210,Chennai,Tamil Nadu,Karthik Rao,2026-09-08

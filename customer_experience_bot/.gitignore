@@ -1,0 +1,44 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment and sensitive keys
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+
+# Local Databases and dynamic runtime data
+data/*.sqlite
+data/*.sqlite3
+data/*.db
+data/temp_*
+*.log
+logs/
+
+# Uploaded documents and temporary artifacts
+uploads/*
+!uploads/.gitkeep
+temp/
+exports/
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db

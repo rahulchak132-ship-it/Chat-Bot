@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise Customer Experience (CX) AI Suite",
+  "description": "Production-grade AI Customer Experience suite for customers, dealers, and distributors with intent classification, real-time sentiment analysis, ticket escalation, and management analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
